@@ -29,4 +29,4 @@ Here are some of my notable public repositories:
 
 - [Advent journey](https://github.com/Elixir-journey/advent-journey): A comprehensive collection of solutions and insights into programming challenges, showcasing Elixir in action.
 - [Advent toolkit](https://github.com/Elixir-journey/advent-toolkit): A library that streamlines Advent of Code participation by automating data retrieval, progress tracking, caching, repository automation, and scheduling.
-- [Beware of Dragons](https://github.com/Elixir-journey/create_BoW_MUD_book): An ambitious text adventure game that blends BEAM’s concurrency model with storytelling. Learn more in our GitBook documentation.
+- [Beware of Dragons](https://github.com/Elixir-journey/create_BoW_MUD_book): An ambitious text adventure game that blends BEAM’s concurrency model with storytelling. Learn more in my GitBook documentation.
