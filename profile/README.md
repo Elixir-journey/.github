@@ -27,6 +27,6 @@ I focus on:
 
 Here are some of my notable public repositories:
 
-- [Advent journey](https://github.com/Elixir-journey/advent-journey): A comprehensive collection of solutions and insights into programming challenges, showcasing Elixir in action.
+- [Advent journey](https://github.com/Elixir-journey/advent-journey): A comprehensive collection of solutions and insights from [advent of code challenges](https://adventofcode.com). It's streamlined by a [toolkit](https://github.com/Elixir-journey/advent-toolkit) focusing on common tasks like handling I/O, parsing, and utility functions. This toolkit allows Advent Journey to concentrate on core logic without the distraction of repetitive setup tasks.
 - [Bracket Labs](https://github.com/Elixir-journey/bracket-labs): An interactive LiveView application where users can craft their own March Madness brackets, powered by the [MadnessMaker HEX module](https://github.com/Elixir-journey/madness-maker) for accurate tournament data processing.
 - [Dragon's tome](https://github.com/Elixir-journey/dragons-tome): Dragon's tome is an interactive, distributed text adventure that immerses readers in building a complex, multiplayer game world using Elixir and BEAM. Through world-building, gameplay mechanics, and hands-on challenges in the [Dragon' gate](https://github.com/Elixir-journey/dragons-gate) repository, readers can explore and even modify core elements of distributed systems, all while following a cohesive vision for a dynamic, adventure-driven experience.
