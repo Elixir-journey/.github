@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ad650a1-5a9b-42ee-8b2c-c57b7e1d3862" alt="Repository logo" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/1d472611-dc9a-4e60-a48c-32ea54b37859" alt="Repository logo" width="400" height="400">
 </p>
 
 
